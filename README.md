@@ -758,3 +758,4 @@ To deploy an application with ArgoCD, you can follow these steps, which I'll out
     - Terminate AWS EC2 instances that are no longer needed.# DevSecOps-Project
 # DevSecOps-Project
 # DevSecOps-Project
+# DevSecOps-Project
